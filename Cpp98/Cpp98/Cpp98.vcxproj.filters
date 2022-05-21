@@ -1,25 +1,60 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Question">
+    <Filter Include="OOP Project">
+      <UniqueIdentifier>{cae25b53-d4dc-4a6f-a2d8-4b3225ffa2c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Question01">
       <UniqueIdentifier>{ed313eff-705b-4be0-85b2-a11800c2f3d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Question02">
+      <UniqueIdentifier>{24c59e57-0291-4edf-8f2e-9de442fa5224}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_1_1.cpp">
-      <Filter>Question</Filter>
+      <Filter>Question01</Filter>
     </ClCompile>
     <ClCompile Include="01_1_2.cpp">
-      <Filter>Question</Filter>
+      <Filter>Question01</Filter>
     </ClCompile>
     <ClCompile Include="01_1_3.cpp">
-      <Filter>Question</Filter>
+      <Filter>Question01</Filter>
     </ClCompile>
     <ClCompile Include="01_1_4.cpp">
-      <Filter>Question</Filter>
+      <Filter>Question01</Filter>
     </ClCompile>
     <ClCompile Include="01_2_1.cpp">
-      <Filter>Question</Filter>
+      <Filter>Question01</Filter>
     </ClCompile>
+    <ClCompile Include="01_3_1.cpp">
+      <Filter>Question01</Filter>
+    </ClCompile>
+    <ClCompile Include="01_3_2.cpp">
+      <Filter>Question01</Filter>
+    </ClCompile>
+    <ClCompile Include="01_4_1.cpp">
+      <Filter>Question01</Filter>
+    </ClCompile>
+    <ClCompile Include="01_4_1_main.cpp">
+      <Filter>Question01</Filter>
+    </ClCompile>
+    <ClCompile Include="01.cpp">
+      <Filter>OOP Project</Filter>
+    </ClCompile>
+    <ClCompile Include="02_1_1.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
+    <ClCompile Include="02_1_2.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
+    <ClCompile Include="02_1_3.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="01_4_1.h">
+      <Filter>Question01</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
