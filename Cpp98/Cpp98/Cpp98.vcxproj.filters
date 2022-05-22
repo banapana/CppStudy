@@ -51,6 +51,18 @@
     <ClCompile Include="02_1_3.cpp">
       <Filter>Question02</Filter>
     </ClCompile>
+    <ClCompile Include="02_2_1.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
+    <ClCompile Include="02_3_1.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
+    <ClCompile Include="02_4_1.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
+    <ClCompile Include="02_4_2.cpp">
+      <Filter>Question02</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01_4_1.h">
