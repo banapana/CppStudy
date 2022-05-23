@@ -10,6 +10,9 @@
     <Filter Include="Question02">
       <UniqueIdentifier>{24c59e57-0291-4edf-8f2e-9de442fa5224}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Question03">
+      <UniqueIdentifier>{49b63e08-6d02-41f7-86f0-9b69e08e1e54}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_1_1.cpp">
@@ -63,10 +66,31 @@
     <ClCompile Include="02_4_2.cpp">
       <Filter>Question02</Filter>
     </ClCompile>
+    <ClCompile Include="03_1_1.cpp">
+      <Filter>Question03</Filter>
+    </ClCompile>
+    <ClCompile Include="03_2_1.cpp">
+      <Filter>Question03</Filter>
+    </ClCompile>
+    <ClCompile Include="03_2_1_main.cpp">
+      <Filter>Question03</Filter>
+    </ClCompile>
+    <ClCompile Include="03_2_2.cpp">
+      <Filter>Question03</Filter>
+    </ClCompile>
+    <ClCompile Include="03_2_2_main.cpp">
+      <Filter>Question03</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01_4_1.h">
       <Filter>Question01</Filter>
+    </ClInclude>
+    <ClInclude Include="03_2_1.h">
+      <Filter>Question03</Filter>
+    </ClInclude>
+    <ClInclude Include="03_2_2.h">
+      <Filter>Question03</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
