@@ -13,6 +13,9 @@
     <Filter Include="Question03">
       <UniqueIdentifier>{49b63e08-6d02-41f7-86f0-9b69e08e1e54}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Question04">
+      <UniqueIdentifier>{66dc1328-43df-418d-a5fe-8ebc43b3b204}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_1_1.cpp">
@@ -80,6 +83,9 @@
     </ClCompile>
     <ClCompile Include="03_2_2_main.cpp">
       <Filter>Question03</Filter>
+    </ClCompile>
+    <ClCompile Include="04_1_1.cpp">
+      <Filter>Question04</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
