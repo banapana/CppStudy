@@ -87,6 +87,9 @@
     <ClCompile Include="04_1_1.cpp">
       <Filter>Question04</Filter>
     </ClCompile>
+    <ClCompile Include="04_2_1.cpp">
+      <Filter>Question04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01_4_1.h">
