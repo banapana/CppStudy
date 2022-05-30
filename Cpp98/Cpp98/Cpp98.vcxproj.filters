@@ -19,6 +19,9 @@
     <Filter Include="Question05">
       <UniqueIdentifier>{659c2cad-7203-477d-9e11-94a503eb6519}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Question07">
+      <UniqueIdentifier>{8188bc36-eadf-4a17-9620-d802e8ada8a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_1_1.cpp">
@@ -107,6 +110,15 @@
     </ClCompile>
     <ClCompile Include="03.cpp">
       <Filter>OOP Project</Filter>
+    </ClCompile>
+    <ClCompile Include="04.cpp">
+      <Filter>OOP Project</Filter>
+    </ClCompile>
+    <ClCompile Include="07_1_1.cpp">
+      <Filter>Question07</Filter>
+    </ClCompile>
+    <ClCompile Include="07_1_2.cpp">
+      <Filter>Question07</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
