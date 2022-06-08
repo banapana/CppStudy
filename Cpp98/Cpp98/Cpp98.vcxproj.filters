@@ -120,6 +120,15 @@
     <ClCompile Include="07_1_2.cpp">
       <Filter>Question07</Filter>
     </ClCompile>
+    <ClCompile Include="07_2_1.cpp">
+      <Filter>Question07</Filter>
+    </ClCompile>
+    <ClCompile Include="07_2_2.cpp">
+      <Filter>Question07</Filter>
+    </ClCompile>
+    <ClCompile Include="05.cpp">
+      <Filter>OOP Project</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="01_4_1.h">
